@@ -1,0 +1,7 @@
+{
+  "name": "eindproject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
